@@ -1,0 +1,43 @@
+[
+    {
+      "question": "Hello",
+      "answer": "Hey, what's up?"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing great! How about you?"
+    },
+    {
+      "question": "What's your plan for today?",
+      "answer": "Just the usual, working and staying productive. You?"
+    },
+    {
+      "question": "Did you have lunch?",
+      "answer": "Not yet! What about you?"
+    },
+    {
+      "question": "Good morning!",
+      "answer": "Good morning! Hope you have a great day!"
+    },
+    {
+      "question": "Can we talk later?",
+      "answer": "Of course! Let me know when you're free."
+    },
+    {
+      "question": "Are you busy?",
+      "answer": "A little, but I can spare some time. What's up?"
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I love blue! What about you?"
+    },
+    {
+      "question": "Did you see the latest movie?",
+      "answer": "Not yet, but I've heard good things about it. Have you watched it?"
+    },
+    {
+      "question": "Let's hang out this weekend.",
+      "answer": "Sounds great! Let’s plan it."
+    }
+  ]
+  
