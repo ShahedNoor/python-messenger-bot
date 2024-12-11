@@ -14,6 +14,7 @@ async def get_existing_tab():
         print(f"Found {len(pages)} tabs open.")
         
         # Check if any tab has Messenger URL
+        # Replace your Massenger url here
         desired_url = 'https://www.messenger.com/e2ee/t/25492530650394779'
         target_page = None
         for page in pages:
